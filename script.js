@@ -1,5 +1,4 @@
 // 1. Create an array of emoji codes
-
 const emojiCodes = [
     128512,
     128514,
